@@ -1,0 +1,64 @@
+html{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    
+}
+body{
+    background: url("https://wallpaperaccess.com/full/262908.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#upper-part h1{
+    margin-top: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 300;
+    color: white;
+    border-bottom-width: 1px;
+    border-bottom-color: white;
+    border-bottom-style: solid;
+    background: rgba(220,160,140,0.5);
+}
+#middle-part{
+    margin-top: 15%;
+}
+#middle-part #btn{
+    width: 300px;
+    height: 150px;
+    background: rgba(220,160,140,0.5);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: none;
+    color: white;
+}
+#middle-part #btn:hover{
+    background-color: pink;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: black;
+    border-bottom-width: 1px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    cursor: pointer;
+}
+#middle-part #file{
+    width: 40%;
+    background: rgba(220,160,140,0.5);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: none;
+    color: white;
+}
+#middle-part #file:hover{
+    background-color: pink;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: black;
+    border-bottom-width: 1px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    cursor: pointer;
+}
